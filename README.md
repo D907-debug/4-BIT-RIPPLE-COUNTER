@@ -34,8 +34,8 @@ step 5:Conduct functional testing by displaying the count at each clock cycle fo
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
- Developed by:K.Dilli Babu 
- RegisterNumber:24900561
+ Developed by:G.aravind
+ RegisterNumber:24003742
 */
 ~~~
 module RippleCounter(
